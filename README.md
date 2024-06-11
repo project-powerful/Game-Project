@@ -1,4 +1,6 @@
-# Game Project
+# Gorkha
+## You can install it on you pc and enjoy it, Just click on the .exe file and install it, (ignore an error of javascript)
+
 ## This is an HCI project, Showcasing the Human Computer Intereactoin, by updating the color theory and adding more workflow widgets.
 This is upgraded version of Stick Ninja.
 This is a game developed in javascript, canvas etc
