@@ -11,7 +11,9 @@ This is a game developed in javascript, canvas etc
 Differences :
 It has
 > Moving Clouds
+
 > Full Moon
+
 > Night Sky
 
 Gorkha (the character)
